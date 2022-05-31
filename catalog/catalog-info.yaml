@@ -8,7 +8,7 @@ metadata:
     - app-accelerator
     - authentication
     - openid
-    - spring-boot
+    - spring
     - java
   annotations:
     'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=appsso-starter-java'

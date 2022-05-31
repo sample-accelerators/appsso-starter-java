@@ -6,5 +6,5 @@ accelerator:
     - sso
     - authentication
     - openid
-    - spring-boot
+    - spring
     - java

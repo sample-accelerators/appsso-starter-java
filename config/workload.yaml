@@ -10,11 +10,11 @@ spec:
     - name: live-update
       value: "true"
   serviceClaims:
-    - name: client
+    - name: appsso-starter-java
       ref:
         apiVersion: services.apps.tanzu.vmware.com/v1alpha1
         kind: ResourceClaim
-        name: client
+        name: appsso-starter-java
   source:
     git:
       ref:
